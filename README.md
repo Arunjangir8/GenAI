@@ -136,7 +136,7 @@ Returns predictions from **Linear Regression**, **Random Forest**, and their **E
 ## 👥 Team
 
 > Team size: 3 students  
-> Course: AI/ML Project — Milestone 1 (Mid-Semester Submission)
+> Course: AI/ML Project — Milestone 1 (Mid-Semester Submission)  
 > Member 1: Arun
 > Member 2: Mayank Yadav
 > Member 3: Rohit Kumar
