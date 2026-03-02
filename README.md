@@ -150,8 +150,8 @@ Returns predictions from **Linear Regression**, **Random Forest**, and their **E
 - [x] Evaluation: MAE, RMSE, R²
 - [x] Price driver analysis (feature importance + coefficients)
 - [x] Working application with prediction function
-- [ ] UI (Streamlit/Gradio) — *to be completed for submission*
-- [ ] System architecture diagram — *to be added*
+- [x] UI (Streamlit/Gradio)
+- [x] System architecture diagram
 
 ---
 
